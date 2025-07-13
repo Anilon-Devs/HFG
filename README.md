@@ -2,7 +2,7 @@
 
 ## Description
 
-HFG is a [brief description of your project]. This project aims to [explain the purpose and goals of the project].
+Wajib is a crowdfunding platform designed to support local organizations that provide legal assistance to activists. The platform aims to facilitate fundraising efforts while also offering a one-tap SOS feature for users in need of immediate legal support.
 
 ## Features
 
