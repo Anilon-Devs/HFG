@@ -6,13 +6,14 @@ HFG is a [brief description of your project]. This project aims to [explain the 
 
 ## Features
 
-- Feature 1: [Brief description of feature 1]
-- Feature 2: [Brief description of feature 2]
-- Feature 3: [Brief description of feature 3]
+- Feature 1: Crowdfunding Campaigns
+- Feature 2: One-Tap SOS
+- Feature 3: Community Engagement
+- Feature 4: User Profiles
 
 ## Technologies Used
 
-- **Language**: [e.g., Dart]
-- **Framework**: [e.g., Flutter]
-- **Database**: [e.g., Supabase]
+- **Language**:  Dart
+- **Framework**: Flutter
+- **Database**: Supabase
 - **Version Control**: Git
